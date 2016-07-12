@@ -1,0 +1,6 @@
+.student {border: 1px solid darkred;}
+body {margin: 30px 80px;}
+div {float: left;
+  border: 2px solid;
+  display: inline;}
+.first {clear: left;}
